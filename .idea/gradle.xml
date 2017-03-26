@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/module003application" />
             <option value="$PROJECT_DIR$/module004basicviews" />
             <option value="$PROJECT_DIR$/module005layoutfiles" />
+            <option value="$PROJECT_DIR$/module006layouts" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

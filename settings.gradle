@@ -1,1 +1,1 @@
-include ':app', ':module003application', ':module004basicviews', ':module005layoutfiles'
+include ':app', ':module003application', ':module004basicviews', ':module005layoutfiles', ':module006layouts'
